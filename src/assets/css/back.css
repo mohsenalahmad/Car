@@ -1,0 +1,19 @@
+.b {
+    background-image:
+     linear-gradient(90deg,#5451dd 0%, #6969ec 35%, #8994f0 100%);
+    border-bottom-left-radius: 150px;
+    margin-bottom: -100px;
+   
+}
+
+.card {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border-radius: 50%;
+   }
+
+ .rad{
+    border-radius: 50%;
+ }  

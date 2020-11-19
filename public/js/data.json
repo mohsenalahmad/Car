@@ -1,0 +1,39 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "model": "lada",
+            "reg_number": "1111",
+            "model_year": "2004",
+            "is_auto": "no",
+            "oil_type": "sadkyp",
+            "image": "img",
+            "car_type_id": "1",
+            "is_active": "no"
+        },
+        {
+            "id" : 2,
+            "model": "lada2",
+            "reg_number": "2222",
+            "model_year": "2004",
+            "is_auto": "yes",
+            "oil_type": "sadkyp",
+            "image": "img",
+            "car_type_id": "2",
+            "is_active": "yes"
+        },
+        {
+            "id" : 3,
+            "model": "lada3",
+            "reg_number": "3333",
+            "model_year": "2004",
+            "is_auto": "yes",
+            "oil_type": "sadkyp",
+            "image": "img",
+            "car_type_id": "3",
+            "is_active": "no"
+        }
+       
+    ] 
+
+}
